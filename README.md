@@ -3,9 +3,8 @@ Git 常用命令
 
 GitLab代码提交总结
 
-Git知识储备：
 github教程：https://www.w3cschool.cn/github/github-nzu62q6u.html
-常用git命令清单：http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html、
+常用git命令清单：http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
 git远程操作命令：http://www.ruanyifeng.com/blog/2014/06/git_remote.html
 git命令: https://blog.51cto.com/steed/2440587
 
